@@ -1,3 +1,4 @@
+# Dash Application layout
 # Import required packages
 import pandas as pd
 import dash
